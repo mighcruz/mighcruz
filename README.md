@@ -3,9 +3,9 @@
 **Governança de TI & GRC | Gestão de Riscos | Controles Internos | Governança da Segurança da Informação | Processos & Tecnologia**
 
 ![COBIT](https://img.shields.io/badge/COBIT-005599?style=for-the-badge&logo=none)
-![ITIL](https://img.shields.io/badge/ITIL-E3000F?style=for-the-badge&logo=none)
+![ITIL](https://img.shields.io/badge/ITIL-005599?style=for-the-badge&logo=none)
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-0054A6?style=for-the-badge&logo=none)
-
+![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none)
 ---
 
 ## Sobre mim
