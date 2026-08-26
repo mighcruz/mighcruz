@@ -39,6 +39,9 @@ Entre os conteúdos publicados estão:
 ## Navegação
 
 ### [◽ Acessar Portfólio de TI](https://github.com/mighcruz/portfolio-ti) 
+
+### [◽ Acessar Testes de Intrusão (Relatórios Executivos](https://github.com/mighcruz/pentest-auditoria-seguranca-info)
+
 ---
 
 ## Contato
