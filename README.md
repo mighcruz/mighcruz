@@ -4,6 +4,8 @@
 
 ![COBIT](https://img.shields.io/badge/COBIT-005599?style=for-the-badge&logo=none)
 ![ITIL](https://img.shields.io/badge/ITIL-005599?style=for-the-badge&logo=none)
+![PDTI](https://img.shields.io/badge/PDTI-005599?style=for-the-badge&logo=none)
+![BSC](https://img.shields.io/badge/BSC-005599?style=for-the-badge&logo=none)
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-0054A6?style=for-the-badge&logo=none)
 ![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none)
 ---
