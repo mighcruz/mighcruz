@@ -1,28 +1,26 @@
 # Miguel H. Cruz
 
-**Governança de TI & GRC | Gestão de Riscos | Controles Internos | Governança da Segurança da Informação | Processos & Tecnologia**
+**Governança de TI | Processos & Tecnologia**
 
-![COBIT](https://img.shields.io/badge/COBIT-005599?style=for-the-badge&logo=none)
-![ITIL](https://img.shields.io/badge/ITIL-005599?style=for-the-badge&logo=none)
-![PDTI](https://img.shields.io/badge/PDTI-005599?style=for-the-badge&logo=none)
-![BSC](https://img.shields.io/badge/BSC-005599?style=for-the-badge&logo=none)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-0054A6?style=for-the-badge&logo=none)
-![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none)
 ---
 
 ## Sobre mim
 
-Profissional com trajetória em **Gestão da Qualidade, Processos, Auditoria, Projetos e Operações**, com experiência consolidada em ambientes industriais, regulados e de alta criticidade.
+Governança de TI e GRC, com formação em Gestão da Tecnologia da Informação e mais de 25 anos de experiência em Gestão da Qualidade, Processos, Auditorias, Projetos, Operações e Tecnologia. Construí minha trajetória em ambientes industriais de alta criticidade e rigor normativo de segurança, dentro da cadeia automotiva (FIAT, Ford e Volkswagen), além de experiências internacionais no Reino Unido, Estados Unidos e Portugal.
+<p align="center">
+  <img src="https://img.shields.io/badge/Governança-para_direcionar-24292e?style=for-the-badge&logo=target&logoColor=white" alt="Governança para direcionar" />
 
-Graduado em **Gestão da Tecnologia da Informação (2026)**, direciono minha atuação profissional para **Tecnologia**, com foco em **Governança de TI, GRC, Gestão de Riscos, Controles Internos, Governança da Segurança da Informação e Processos**.
+  <img src="https://img.shields.io/badge/Processos-para_organizar-24292e?style=for-the-badge&logo=processwire&logoColor=white" alt="Processos para organizar" />
 
-## Áreas de Atuação
-
-**Governança de TI** | **GRC** | **Gestão de Riscos** | **Controles Internos** | **ITGC** | **Segurança da Informação** | **LGPD** | **Continuidade de Negócios (BCM/BIA)** | **TPRM**
+  <img src="https://img.shields.io/badge/Tecnologia-para_gerar_valor-24292e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Tecnologia para gerar valor" />
+</p>
 
 ## Frameworks & Boas Práticas
 
-**COBIT** | **ITIL** | **NIST CSF** | **ISO 27001** | **ISO 31000**
+![COBIT](https://img.shields.io/badge/COBIT-005599?style=for-the-badge&logo=none)
+![ITIL](https://img.shields.io/badge/ITIL-005599?style=for-the-badge&logo=none)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-0054A6?style=for-the-badge&logo=none)
+![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none)
 
 ---
 
