@@ -15,16 +15,16 @@ Governança de TI e GRC, com formação em Gestão da Tecnologia da Informação
   <img src="https://img.shields.io/badge/Tecnologia-para_gerar_valor-24292e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Tecnologia para gerar valor" />
 </p>
 
-## Frameworks & Boas Práticas
+<!--## Frameworks & Boas Práticas
 
 ![COBIT](https://img.shields.io/badge/COBIT-005599?style=for-the-badge&logo=none)
 ![ITIL](https://img.shields.io/badge/ITIL-005599?style=for-the-badge&logo=none)
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-0054A6?style=for-the-badge&logo=none)
-![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none)
+![ISO 31000](https://img.shields.io/badge/ISO%2031000-0054A6?style=for-the-badge&logo=none) -->
 
 ---
 
-## Sobre este espaço
+<!--## Sobre este espaço
 
 Este GitHub reúne projetos, estudos, experimentos e materiais desenvolvidos no contexto da minha formação e evolução profissional na interseção entre **Tecnologia, Processos e Negócios**.
 
@@ -34,13 +34,15 @@ Entre os conteúdos publicados estão:
 
 - Projetos acadêmicos e pessoais relacionados a Governança, Riscos e Tecnologia;
 - Estudos de caso e documentação técnica;
-- Análises e experimentos relacionados à tecnologia, processos e conformidade regulatória.
+- Análises e experimentos relacionados à tecnologia, processos e conformidade regulatória. -->
 
 ## Navegação
 
-### [◽ Acessar Portfólio de TI](https://github.com/mighcruz/portfolio-ti) 
+#### ▫ [Acessar Portfólio de TI](https://github.com/mighcruz/portfolio-ti) 
 
-### [◽ Acessar Testes de Intrusão (Relatórios Executivos)](https://github.com/mighcruz/pentest-auditoria-seguranca-info)
+<!-- Comentário interno sobre esta seção de relatórios -  DESENVOLVER REPOSITORIOS PENTEST 
+### [◽ Acessar Testes de Intrusão (Relatórios Executivos)](https://github.com/mighcruz/pentest-auditoria-seguranca-info) -->
+
 
 ---
 
