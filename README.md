@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Governança de TI e GRC, com formação em Gestão da Tecnologia da Informação e mais de 25 anos de experiência em Gestão da Qualidade, Processos, Auditorias, Projetos, Operações e Tecnologia. Construí minha trajetória em ambientes industriais de alta criticidade e rigor normativo de segurança, dentro da cadeia automotiva (FIAT, Ford e Volkswagen), além de experiências internacionais no Reino Unido, Estados Unidos e Portugal.
+Analista de Governança de TI e GRC, com formação em Gestão da Tecnologia da Informação e mais de 25 anos de experiência em Gestão da Qualidade, Processos, Auditorias, Projetos, Operações e Tecnologia. Construí minha trajetória em ambientes industriais de alta criticidade e rigor normativo de segurança, dentro da cadeia automotiva (FIAT, Ford e Volkswagen), além de experiências internacionais no Reino Unido, Estados Unidos e Portugal.
 <p align="center">
   <img src="https://img.shields.io/badge/Governança-para_direcionar-24292e?style=for-the-badge&logo=target&logoColor=white" alt="Governança para direcionar" />
 
