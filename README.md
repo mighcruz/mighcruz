@@ -9,9 +9,7 @@
 Analista de Governança de TI e GRC, com formação em Gestão da Tecnologia da Informação e mais de 25 anos de experiência em Gestão da Qualidade, Processos, Auditorias, Projetos, Operações e Tecnologia. Construí minha trajetória em ambientes industriais de alta criticidade e rigor normativo de segurança, dentro da cadeia automotiva (FIAT, Ford e Volkswagen), além de experiências internacionais no Reino Unido, Estados Unidos e Portugal.
 <p align="center">
   <img src="https://img.shields.io/badge/Governança-para_direcionar-24292e?style=for-the-badge&logo=target&logoColor=white" alt="Governança para direcionar" />
-
   <img src="https://img.shields.io/badge/Processos-para_organizar-24292e?style=for-the-badge&logo=processwire&logoColor=white" alt="Processos para organizar" />
-
   <img src="https://img.shields.io/badge/Tecnologia-para_gerar_valor-24292e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Tecnologia para gerar valor" />
 </p>
 
